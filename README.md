@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **tanushree-coder-girl/tanushree-coder-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
