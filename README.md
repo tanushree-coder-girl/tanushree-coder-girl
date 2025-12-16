@@ -1,65 +1,53 @@
-<!--
-**tanushree-coder-girl/tanushree-coder-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Header -->
-<h1 align="center">👩‍💻 Hi, I'm Tanushree</h1>
+<!-- Hero Section -->
+<h1 align="center">✨ Hi, I'm Tanushree ✨</h1>
 <h3 align="center">Frontend-Focused Software Engineer | 4+ Years Experience</h3>
 
 <p align="center">
-Passionate about building modern, scalable and beautiful web & mobile applications with great UX.
+🚀 I build elegant, high-performance web & mobile apps with delightful user experiences.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanushree-coder-girl&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ About Me
+## 💖 About Me
 
-- 💼 Frontend-Focused Software Engineer with **4+ years** of experience  
-- 🎨 Strong UI/UX sense & animation lover  
-- ⚛️ React, Next.js & React Native specialist  
-- 🚀 Experience with production-level applications  
-- ❤️ Clean code, reusable components & performance optimization  
+- 👩‍💻 Frontend-focused Software Engineer with **4+ years** of experience  
+- ⚛️ React / Next.js / React Native expert  
+- 🎨 Strong eye for UI/UX & smooth animations  
+- 💼 Worked on real-world, production-scale apps  
+- 🧠 Clean code, scalable architecture & performance-first mindset  
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- React.js, Next.js  
-- React Native, Expo  
-- Redux, Redux Toolkit  
-- SCSS / SASS, Tailwind CSS, Material UI  
-- Framer Motion  
-- Vite  
-
-### Backend & APIs
-- Express.js  
-- REST APIs, GraphQL  
-- Firebase (Auth, Firestore, Hosting)  
-
-### Tools
-- Git & GitHub  
-- npm  
-- VS Code  
+> *I don’t just build UIs — I craft experiences.*
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Tech Stack I Love
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushree-coder-girl&show_icons=true&theme=radical" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,materialui,framer,vite,nodejs,express,firebase,graphql,git,github" />
+</p>
+
+---
+
+## 🚀 What I Do Best
+
+- ✨ Modern & responsive frontend development  
+- ⚛️ Scalable React & Next.js applications  
+- 📱 Cross-platform apps with React Native & Expo  
+- 🎬 Animations using Framer Motion  
+- 🔗 REST & GraphQL API integrations  
+- 🧠 State management with Redux Toolkit  
+
+---
+
+## 📊 GitHub At a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanushree-coder-girl&show_icons=true&theme=radical&hide=issues" />
 </p>
 
 <p align="center">
@@ -68,40 +56,48 @@ Passionate about building modern, scalable and beautiful web & mobile applicatio
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushree-coder-girl&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushree-coder-girl&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 💼 Freelance & Work Profiles
+
+<p align="center">
+
+<a href="https://www.fiverr.com/tanushreeahir1" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="https://codecanyon.net/user/sparks_themes/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/CodeCanyon-262626?style=for-the-badge&logo=envato&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Let’s Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tanushree-ahir4321" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="38" />
 </a>
 
 <a href="https://x.com/Tanushree_Ahir" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="38" />
 </a>
 
 <a href="https://github.com/tanushree-coder-girl" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="38" />
 </a>
 
 <a href="https://tanushreeahir.framer.website/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/framer.svg" width="40" />
-</a>
-
-<a href="https://www.fiverr.com/tanushreeahir1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fiverr.svg" width="40" />
-</a>
-
-<a href="https://codecanyon.net/user/sparks_themes/portfolio" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/envato.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/framer.svg" width="38" />
 </a>
 
 </p>
@@ -109,5 +105,5 @@ Passionate about building modern, scalable and beautiful web & mobile applicatio
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
