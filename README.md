@@ -64,16 +64,24 @@
 
 ---
 
-## 💼 Freelance & Work Profiles
+## 💼 Hire Me / Freelance Platforms
 
 <p align="center">
 
 <a href="https://www.fiverr.com/tanushreeahir1" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiverr-Available%20for%20Hire-00b22d?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <a href="https://codecanyon.net/user/sparks_themes/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/CodeCanyon-262626?style=for-the-badge&logo=envato&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeCanyon-Frontend%20Products-262626?style=for-the-badge&logo=envato&logoColor=white"/>
+</a>
+
+<a href="https://www.truelancer.com/freelancer/tanushreeahir" target="_blank">
+  <img src="https://img.shields.io/badge/Truelancer-Open%20to%20Work-1f8ceb?style=for-the-badge&logo=freelancer&logoColor=white"/>
+</a>
+
+<a href="https://contra.com/tanushreeahir/work" target="_blank">
+  <img src="https://img.shields.io/badge/Contra-Remote%20Friendly-000000?style=for-the-badge&logo=contra&logoColor=white"/>
 </a>
 
 </p>
@@ -97,7 +105,7 @@
 </a>
 
 <a href="https://tanushreeahir.framer.website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Work-ff69b4?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-ff69b4?style=for-the-badge&logo=framer&logoColor=white"/>
 </a>
 
 </p>
