@@ -1,8 +1,7 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Tanushree&fontAlign=50&fontAlignY=35&desc=Frontend-Focused%20Software%20Engineer%20|%204%2B%20Years%20Experience&descAlign=50&descAlignY=55&fontColor=ffffff&animation=fadeIn" />
+</p>
 <!-- Hero Section -->
-<h1 align="center">✨ Hi, I'm Tanushree ✨</h1>
-<h3 align="center">Frontend-Focused Software Engineer | 4+ Years Experience</h3>
-
 <p align="center">
 🚀 I build elegant, high-performance web & mobile apps with delightful user experiences.
 </p>
