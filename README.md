@@ -80,24 +80,24 @@
 
 ---
 
-## 🌐 Let’s Connect
+## 🤝 Let’s Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tanushree-ahir4321" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="38" />
+  <img src="https://img.shields.io/badge/LinkedIn-Tanushree_Ahir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Tanushree_Ahir" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="38" />
+  <img src="https://img.shields.io/badge/Twitter-@Tanushree_Ahir-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tanushree-coder-girl" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="38" />
+  <img src="https://img.shields.io/badge/GitHub-tanushree--coder--girl-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://tanushreeahir.framer.website/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/framer.svg" width="38" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-ff69b4?style=for-the-badge&logo=framer&logoColor=white"/>
 </a>
 
 </p>
