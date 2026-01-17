@@ -40,27 +40,6 @@
 - 🎬 Animations using Framer Motion  
 - 🔗 REST & GraphQL API integrations  
 - 🧠 State management with Redux Toolkit  
-
----
-
-## 📊 GitHub At a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushree-coder-girl&show_icons=true&theme=radical&hide=issues" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanushree-coder-girl&theme=radical" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushree-coder-girl&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true" />
-</p>
-
 ---
 
 ## 💼 Hire Me / Freelance Platforms
