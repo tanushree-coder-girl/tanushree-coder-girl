@@ -11,7 +11,7 @@ I specialize in **React, Next.js, and TypeScript**, with hands-on experience acr
 
 I enjoy working close to product — fixing real user problems, improving UX, and shipping features that deliver real value.
 
-- 4+ years of production experience  
+- 4+ years of experience  
 - Strong UI/UX and performance mindset  
 - Experience with web & mobile (React Native)  
 - Open-source contributor & startup-friendly
